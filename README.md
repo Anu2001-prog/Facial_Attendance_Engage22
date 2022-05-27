@@ -39,7 +39,7 @@ python manage.py migrate
 python manage.py createsuperuser
 python manage.py runserver
 ```
-## other installation info :
+## Other installation info :
 1.In the admin file create a new admin with the command : python manage.py createsuperuser 
 
 ## Credentials:
