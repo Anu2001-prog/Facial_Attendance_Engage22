@@ -3,7 +3,7 @@
 ## Presentation Video Link
 Link: [Video Link]()
 
-## Overview                    
+## Run-through                   
 * A simple facial recognition project that detects a student's face and records his or her attendance in a database and an excel file.
 * It can also generate an attendance report and send or save it as a pdf file with a subject and title.
 * It can also be used as a student management portal, displaying all students' information and attendance on a dashboard ,having a chat-bot to answer all queries. 
@@ -15,7 +15,7 @@ This project is divided into multiple parts:-
 3. It creates a excel sheets one for current attendance and another which adds the unique students.
 4. A section where we can select the files and send it via mail with subject and title
 
-## Technical Aspect
+## Technologies Used
 ### Frontend
 * HTML 
 * CSS 
@@ -39,7 +39,7 @@ python manage.py migrate
 python manage.py createsuperuser
 python manage.py runserver
 ```
-## other installation info :
+## Other installation info :
 1.In the admin file create a new admin with the command : python manage.py createsuperuser 
 
 ## Credentials:
