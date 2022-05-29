@@ -3,6 +3,9 @@
 ## Presentation Video Link
 Link: [Video Link]()
 
+## Project presenation Slides & Screenshots :
+Link: [PPT Link](https://drive.google.com/drive/folders/1Wrg9rHVB-DrY8zVcemzc752D4vVuEZ3n?usp=sharing)
+
 ## Run-through                   
 * A simple facial recognition project that detects a student's face and records his or her attendance in a database and an excel file.
 * It can also generate an attendance report and send or save it as a pdf file with a subject and title.
