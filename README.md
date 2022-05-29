@@ -1,6 +1,7 @@
 # Facial Recognition Attendance Project Engage 2022
 
-## Presentation Video Link
+## Presentation quick demo
+![](demo.gif)
 Link: [Video Link](https://drive.google.com/file/d/15JaJ1HUcz_A6L-P3X5YhWBiJFfJB__mf/view?usp=sharing)
 
 ## Project presenation Slides & Screenshots :
