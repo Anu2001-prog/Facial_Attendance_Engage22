@@ -1,6 +1,6 @@
 # Facial Recognition Attendance Project Engage 2022
 
-## Quick demo
+## Quick demo :
 ![](demo.gif)
 
 ### Presenation Demo link :
